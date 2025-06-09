@@ -1,0 +1,8 @@
+# Compiled code
+
+/target
+
+
+# Environment variables
+
+.env
